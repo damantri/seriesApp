@@ -1,0 +1,15 @@
+/* archivo: series-list.component.css */
+.container {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .table img {
+    max-width: 100px;
+    height: auto;
+  }
+  
